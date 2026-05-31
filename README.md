@@ -56,8 +56,6 @@ Full validation statistics can be reviewed in the raw output files:
 * [View PROCHECK Ramachandran Analysis (PDF)](results/procheck.pdf)
 * [View ERRAT Non-Bonded Interactions (PDF)](results/errat.pdf)
 
-*(Optional: If you took a screenshot of the Ramachandran plot, you can view it below:)* ![Ramachandran Plot](results/ramachandran_plot.png)
-
 ---
 
 ## Final Structural Complex
